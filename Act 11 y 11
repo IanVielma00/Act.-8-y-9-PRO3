@@ -1,0 +1,25 @@
+<html>
+   <head> 
+      <title>Estructura mínima de un documento HTML</title> 
+   </head>
+   <body>
+<table align = "center">
+<tr>
+  <td font-color = "#FF5733">Curso</td>
+  <td color = "#FF5733">Horas</td>
+  <td color = "#FF5733">Horario</td>
+</tr>
+ 
+<tr>
+  <td>CSS</td>
+  <td>20</td>
+  <td>16:00 - 20:00</td>
+</tr>
+ 
+<tr>
+  <td>HTML</td>
+  <td>20</td>
+  <td>16:00 - 20:00</td>
+</tr>
+    </body>
+</html>
