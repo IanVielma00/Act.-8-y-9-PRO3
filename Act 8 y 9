@@ -1,0 +1,22 @@
+<html>
+   <head> 
+      <title>Estructura mínima de un documento HTML</title> 
+   </head>
+   <body>
+      <a href = "" target = "_blank">
+      <img src = "" width = "" height = "" align = "inline" title = "Github" border = "">
+      </a>
+      <a href = "" target = "_blank">
+      <img src = "" width = "" height = "" align = "inline" title = "StackOverflow" border = "">
+      </a>
+      <a href = "" target = "_blank">
+      <img src = "" width = "" height = "" align = "inline" title = "HackerRank" border = "">
+      </a>
+      <a href = "" target = "_blank">
+      <img src = "" width = "" height = "" align = "inline" title = "CodeCademy" border = "">
+      </a>
+      <a href = "" target = "_blank">
+      <img src = "" width = "" height = "" align = "inline" title = "KhanAcademy" border = "">
+      </a>
+    </body>
+</html>
